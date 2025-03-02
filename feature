@@ -1,1 +1,1 @@
-feature 2 commite
+feature 2 conflict 2
